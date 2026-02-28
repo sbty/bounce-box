@@ -1,0 +1,18 @@
+{
+  "name": "bounce-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && copy index.html dist\\ && copy style.css dist\\",
+    "watch": "tsc --watch",
+    "dev": "tsc --watch & npx serve .",
+    "serve": "npx serve dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
