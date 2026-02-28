@@ -5,7 +5,7 @@ TypeScript製のシンプルなビジュアルトイ。
 
 ## デモ
 
-🔗 [Play Here](https://あなたのユーザー名.github.io/bounce-box/)
+🔗 [Play Here](https://sbty.github.io/bounce-box/)
 
 ## 操作方法
 
